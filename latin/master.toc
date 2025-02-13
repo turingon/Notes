@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Declesions}{1}{}%
+\contentsline {section}{\numberline {2}Subjects}{1}{}%
+\contentsline {section}{\numberline {3}Present Tense}{2}{}%
+\contentsline {section}{\numberline {4}Imperfect Tense}{3}{}%
+\contentsline {section}{\numberline {5}Perfect Tense}{3}{}%
+\contentsline {section}{\numberline {6}Test}{4}{}%

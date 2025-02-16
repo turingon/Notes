@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.9)  15 FEB 2025 11:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.9)  16 FEB 2025 13:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -158,22 +158,22 @@ Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--14
+
+ []
+
 ) (./lectures/lec_02.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--1
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--1
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--1
-
- []
-
-
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -193,14 +193,13 @@ Overfull \hbox (34.291pt too wide) in paragraph at lines 2--2
 [][] 
  []
 
+[1
 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 3--10
 
  []
 
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -373,17 +372,118 @@ Overfull \hbox (59.29202pt too wide) in paragraph at lines 17--30
 []
  []
 
-) [4] (./master.aux)
+[4]
+Overfull \hbox (4.76436pt too wide) in paragraph at lines 99--106
+ [] 
+ []
+
+) (./lectures/lec_07.tex
+Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--14
+
+ []
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.24   moneo & monere & monui & monitus &
+                                         
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.26 ... to warn & I warned & having been warned &
+                                                   \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--30
+
+ []
+
+
+Overfull \hbox (59.29202pt too wide) in paragraph at lines 17--30
+[]
+ []
+
+[5]) (./lectures/lec_08.tex
+Overfull \hbox (34.291pt too wide) in paragraph at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--6
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+
+ []
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.28   curro & currere & cucurri & cursus &
+                                           
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.30   I run & to run & I ran & having been ran &
+                                                  \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--34
+
+ []
+
+
+Overfull \hbox (59.29202pt too wide) in paragraph at lines 18--34
+[]
+ []
+
+[7]) [8] (./master.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2510 strings out of 476076
- 45576 string characters out of 5793776
- 1943187 words of memory out of 5000000
- 24632 multiletter control sequences out of 15000+600000
+ 2522 strings out of 476076
+ 45848 string characters out of 5793776
+ 1945187 words of memory out of 5000000
+ 24638 multiletter control sequences out of 15000+600000
  562622 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  62i,6n,68p,288b,251s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -392,10 +492,10 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb>
-Output written on master.pdf (4 pages, 86828 bytes).
+Output written on master.pdf (8 pages, 94504 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 61 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -4,3 +4,5 @@
 \contentsline {section}{\numberline {4}Imperfect Tense}{3}{}%
 \contentsline {section}{\numberline {5}Perfect Tense}{3}{}%
 \contentsline {section}{\numberline {6}1st Conjugation}{4}{}%
+\contentsline {section}{\numberline {7}2nd Conjugation}{5}{}%
+\contentsline {section}{\numberline {8}3rd Conjugation}{7}{}%

@@ -6,3 +6,4 @@
 \contentsline {section}{\numberline {6}1st Conjugation}{4}{}%
 \contentsline {section}{\numberline {7}2nd Conjugation}{5}{}%
 \contentsline {section}{\numberline {8}3rd Conjugation}{7}{}%
+\contentsline {section}{\numberline {9}1st Declension}{8}{}%

@@ -2,9 +2,10 @@
 \contentsline {section}{\numberline {2}Subjects}{1}{}%
 \contentsline {section}{\numberline {3}Present Tense}{2}{}%
 \contentsline {section}{\numberline {4}Imperfect Tense}{3}{}%
-\contentsline {section}{\numberline {5}Perfect Tense}{3}{}%
-\contentsline {section}{\numberline {6}1st Conjugation}{4}{}%
-\contentsline {section}{\numberline {7}2nd Conjugation}{5}{}%
-\contentsline {section}{\numberline {8}3rd Conjugation}{7}{}%
-\contentsline {section}{\numberline {9}1st Declension}{8}{}%
-\contentsline {section}{\numberline {10}2nd Declension}{9}{}%
+\contentsline {section}{\numberline {5}Perfect Tense}{4}{}%
+\contentsline {section}{\numberline {6}1st Conjugation}{5}{}%
+\contentsline {section}{\numberline {7}2nd Conjugation}{6}{}%
+\contentsline {section}{\numberline {8}3rd Conjugation}{8}{}%
+\contentsline {section}{\numberline {9}1st Declension}{9}{}%
+\contentsline {section}{\numberline {10}2nd Declension}{10}{}%
+\contentsline {section}{\numberline {11}3rd Declension}{11}{}%

@@ -9,3 +9,5 @@
 \contentsline {section}{\numberline {9}1st Declension}{9}{}%
 \contentsline {section}{\numberline {10}2nd Declension}{10}{}%
 \contentsline {section}{\numberline {11}3rd Declension}{11}{}%
+\contentsline {section}{\numberline {12}4th Declension}{12}{}%
+\contentsline {section}{\numberline {13}5th Declension}{13}{}%

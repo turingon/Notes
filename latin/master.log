@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  26 FEB 2025 09:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  26 FEB 2025 14:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/doruk/Notes/latin/master.tex
-(/home/doruk/Notes/latin/master.tex
+**/home/doruk/Notes/current-course/master.tex
+(/home/doruk/Notes/current-course/master.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -281,68 +281,323 @@ Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--14
-
- []
-
 ) (./lectures/lec_02.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
-) (./lectures/lec_03.tex
-Underfull \hbox (badness 10000) in paragraph at lines 12--2
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--2
+Underfull \hbox (badness 10000) in paragraph at lines 2--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--14
 
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (34.291pt too wide) in paragraph at lines 2--2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./lectures/lec_03.tex
+Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--10
+Underfull \hbox (badness 10000) in paragraph at lines 2--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--10
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 12.
+(Font)              <7> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 12.
+(Font)              <5> on input line 13.
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.26   & English & Latin &
+                          
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--57
+Overfull \hbox (18.29208pt too wide) in paragraph at lines 24--35
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--62
+Underfull \hbox (badness 10000) in paragraph at lines 24--35
 
  []
 
-[2]) (./lectures/lec_04.tex
+) (./lectures/lec_04.tex
+Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--14
+
+ []
+
+[2]
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.41   & English & Latin &
+                          
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--48
+
+ []
+
+[3]) (./lectures/lec_05.tex
+Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--12
+
+ []
+
+[4]) (./lectures/lec_06.tex
+Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--7
+
+ []
+
+[5]) (./lectures/lec_07.tex
+Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--6
+
+ []
+
+) (./lectures/lec_08.tex
+Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 11--14
+
+ []
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.24   pugno & pugnare & pugnavi & pugnatus &
+                                             
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.26 ...to fight & I fought & having been fought &
+                                                   \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--30
+
+ []
+
+
+Overfull \hbox (59.29202pt too wide) in paragraph at lines 17--30
+[]
+ []
+
+[7]
+Overfull \hbox (4.76436pt too wide) in paragraph at lines 99--106
+ [] 
+ []
+
+) (./lectures/lec_09.tex
+Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--30
+
+ []
+
+
+Overfull \hbox (59.29202pt too wide) in paragraph at lines 17--30
+[]
+ []
+
+[8]) (./lectures/lec_10.tex
+Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--14
+
+ []
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.27   curro & currere & cucurri & cursus &
+                                           
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.29   I run & to run & I ran & having been ran &
+                                                  \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--33
+
+ []
+
+
+Overfull \hbox (59.29202pt too wide) in paragraph at lines 17--33
+[]
+ []
+
+[9]) (./lectures/lec_11.tex
+Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--9
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--61
+
+ []
+
+) (./lectures/lec_12.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -379,6 +634,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
+[11]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -419,12 +675,12 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[3]) (./lectures/lec_05.tex
+) (./lectures/lec_13.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
-[4]
+[12]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -451,270 +707,6 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) (./lectures/lec_06.tex
-Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--14
-
- []
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.24   pugno & pugnare & pugnavi & pugnatus &
-                                             
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.26 ...to fight & I fought & having been fought &
-                                                   \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--30
-
- []
-
-
-Overfull \hbox (59.29202pt too wide) in paragraph at lines 17--30
-[]
- []
-
-[5]
-Overfull \hbox (4.76436pt too wide) in paragraph at lines 99--106
- [] 
- []
-
-) (./lectures/lec_07.tex
-Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--30
-
- []
-
-
-Overfull \hbox (59.29202pt too wide) in paragraph at lines 17--30
-[]
- []
-
-[6]) (./lectures/lec_08.tex
-Overfull \hbox (34.291pt too wide) in paragraph at lines 2--2
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--6
-
- []
-
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 12--15
-
- []
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.28   curro & currere & cucurri & cursus &
-                                           
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.30   I run & to run & I ran & having been ran &
-                                                  \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--34
-
- []
-
-
-Overfull \hbox (59.29202pt too wide) in paragraph at lines 18--34
-[]
- []
-
-[8]) (./lectures/lec_09.tex
-Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--10
-
- []
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.26   & English & Latin &
-                          
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--35
-
- []
-
-
-Overfull \hbox (18.29208pt too wide) in paragraph at lines 24--35
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--35
-
- []
-
-[9]) (./lectures/lec_10.tex
-Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--14
-
- []
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.41   & English & Latin &
-                          
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--48
-
- []
-
-[10]) (./lectures/lec_11.tex
-Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--12
-
- []
-
-[11]) (./lectures/lec_12.tex
-Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--7
-
- []
-
-[12]) (./lectures/lec_13.tex
-Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--6
-
- []
-
 ) [13] (./master.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -723,18 +715,18 @@ L3 programming layer <2024-02-20>
  ) 
 Here is how much of TeX's memory you used:
  4828 strings out of 476076
- 82842 string characters out of 5793775
+ 82869 string characters out of 5793775
  1947187 words of memory out of 5000000
  26849 multiletter control sequences out of 15000+600000
  562921 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,6n,82p,295b,268s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,6n,82p,304b,315s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb>
-Output written on master.pdf (13 pages, 115667 bytes).
+Output written on master.pdf (13 pages, 115413 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream

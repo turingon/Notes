@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  26 FEB 2025 17:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  26 FEB 2025 17:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -397,22 +397,22 @@ in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--48
+Underfull \hbox (badness 10000) in paragraph at lines 39--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--48
+Underfull \hbox (badness 10000) in paragraph at lines 39--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--48
+Underfull \hbox (badness 10000) in paragraph at lines 39--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--48
+Underfull \hbox (badness 10000) in paragraph at lines 39--49
 
  []
 
@@ -461,11 +461,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-[6]
+
 Underfull \hbox (badness 10000) in paragraph at lines 11--14
 
  []
 
+[6]
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
@@ -494,12 +495,12 @@ Overfull \hbox (59.29202pt too wide) in paragraph at lines 17--30
 []
  []
 
-[7]
+
 Overfull \hbox (4.76436pt too wide) in paragraph at lines 99--106
  [] 
  []
 
-) (./lectures/lec_10.tex
+[7]) (./lectures/lec_10.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -639,7 +640,6 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-[11]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -667,6 +667,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+[11]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -685,7 +686,6 @@ Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
-[12]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -712,7 +712,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) [13] (./master.aux)
+) [12] (./master.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -721,20 +721,20 @@ L3 programming layer <2024-02-20>
 Here is how much of TeX's memory you used:
  4834 strings out of 476076
  82978 string characters out of 5793775
- 1947187 words of memory out of 5000000
+ 1948187 words of memory out of 5000000
  26852 multiletter control sequences out of 15000+600000
  562921 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,6n,82p,295b,315s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,6n,82p,295b,268s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb>
-Output written on master.pdf (13 pages, 116861 bytes).
+Output written on master.pdf (12 pages, 116599 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 73 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

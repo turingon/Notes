@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  26 FEB 2025 14:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  26 FEB 2025 17:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/doruk/Notes/current-course/master.tex
-(/home/doruk/Notes/current-course/master.tex
+**/home/doruk/Notes/latin/master.tex
+(/home/doruk/Notes/latin/master.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -286,6 +286,11 @@ Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
+) (./lectures/lec_03.tex
+Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--14
 
@@ -303,7 +308,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--14
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./lectures/lec_03.tex
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./lectures/lec_04.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -351,7 +356,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--35
 
  []
 
-) (./lectures/lec_04.tex
+) (./lectures/lec_05.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -411,7 +416,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--48
 
  []
 
-[3]) (./lectures/lec_05.tex
+[3]) (./lectures/lec_06.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -421,7 +426,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--12
 
  []
 
-[4]) (./lectures/lec_06.tex
+[4]) (./lectures/lec_07.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -431,7 +436,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-[5]) (./lectures/lec_07.tex
+[5]) (./lectures/lec_08.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -446,7 +451,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
  []
 
-) (./lectures/lec_08.tex
+) (./lectures/lec_09.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -494,7 +499,7 @@ Overfull \hbox (4.76436pt too wide) in paragraph at lines 99--106
  [] 
  []
 
-) (./lectures/lec_09.tex
+) (./lectures/lec_10.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -519,7 +524,7 @@ Overfull \hbox (59.29202pt too wide) in paragraph at lines 17--30
 []
  []
 
-[8]) (./lectures/lec_10.tex
+[8]) (./lectures/lec_11.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -572,7 +577,7 @@ Overfull \hbox (59.29202pt too wide) in paragraph at lines 17--33
 []
  []
 
-[9]) (./lectures/lec_11.tex
+[9]) (./lectures/lec_12.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -597,7 +602,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--61
 
  []
 
-) (./lectures/lec_12.tex
+) (./lectures/lec_13.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -675,7 +680,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) (./lectures/lec_13.tex
+) (./lectures/lec_14.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -714,19 +719,19 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4828 strings out of 476076
- 82869 string characters out of 5793775
+ 4834 strings out of 476076
+ 82978 string characters out of 5793775
  1947187 words of memory out of 5000000
- 26849 multiletter control sequences out of 15000+600000
+ 26852 multiletter control sequences out of 15000+600000
  562921 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,6n,82p,304b,315s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,6n,82p,295b,315s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb>
-Output written on master.pdf (13 pages, 115413 bytes).
+Output written on master.pdf (13 pages, 116861 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream

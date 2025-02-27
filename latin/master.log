@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  26 FEB 2025 17:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  27 FEB 2025 16:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -286,29 +286,93 @@ Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
-) (./lectures/lec_03.tex
-Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
-[][] 
- []
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 7.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--14
+Underfull \hbox (badness 10000) in paragraph at lines 2--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--14
+Underfull \hbox (badness 10000) in paragraph at lines 2--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--15
 
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./lectures/lec_04.tex
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./lectures/lec_03.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--1
+
+ []
+
+
+Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--14
+
+ []
+
+[2]) (./lectures/lec_04.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -323,10 +387,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--10
 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 13.
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
@@ -342,7 +402,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--35
  []
 
 
-Overfull \hbox (18.29208pt too wide) in paragraph at lines 24--35
+Overfull \hbox (83.97847pt too wide) in paragraph at lines 24--35
 []
  []
 
@@ -356,7 +416,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--35
 
  []
 
-) (./lectures/lec_05.tex
+[3]) (./lectures/lec_05.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -386,7 +446,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--14
 
  []
 
-[2]
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
@@ -402,8 +461,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--49
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--49
-
+Overfull \hbox (61.26204pt too wide) in paragraph at lines 39--49
+[] 
  []
 
 
@@ -416,7 +475,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--49
 
  []
 
-[3]) (./lectures/lec_06.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--49
+
+ []
+
+[4] [5]) (./lectures/lec_06.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -426,7 +490,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--12
 
  []
 
-[4]) (./lectures/lec_07.tex
+[6]
+Overfull \hbox (29.84598pt too wide) in paragraph at lines 75--85
+ [] 
+ []
+
+) (./lectures/lec_07.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -436,7 +505,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-[5]) (./lectures/lec_08.tex
+[7]) (./lectures/lec_08.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -451,7 +520,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
  []
 
-) (./lectures/lec_09.tex
+[8]) (./lectures/lec_09.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -466,7 +535,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--14
 
  []
 
-[6]
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
@@ -491,16 +559,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--30
  []
 
 
-Overfull \hbox (59.29202pt too wide) in paragraph at lines 17--30
+Overfull \hbox (130.02818pt too wide) in paragraph at lines 17--30
 []
  []
 
-
-Overfull \hbox (4.76436pt too wide) in paragraph at lines 99--106
+[9]
+Overfull \hbox (20.25441pt too wide) in paragraph at lines 47--54
  [] 
  []
 
-[7]) (./lectures/lec_10.tex
+
+Overfull \hbox (21.49467pt too wide) in paragraph at lines 87--94
+ [] 
+ []
+
+
+Overfull \hbox (63.99007pt too wide) in paragraph at lines 99--106
+ [] 
+ []
+
+) (./lectures/lec_10.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -510,7 +588,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 11--14
 
  []
@@ -521,11 +599,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--30
  []
 
 
-Overfull \hbox (59.29202pt too wide) in paragraph at lines 17--30
+Overfull \hbox (130.02818pt too wide) in paragraph at lines 17--30
 []
  []
 
-[8]) (./lectures/lec_11.tex
+
+Overfull \hbox (16.33778pt too wide) in paragraph at lines 47--54
+ [] 
+ []
+
+[11]
+Overfull \hbox (13.00865pt too wide) in paragraph at lines 87--94
+ [] 
+ []
+
+
+Overfull \hbox (55.50404pt too wide) in paragraph at lines 99--106
+ [] 
+ []
+
+) (./lectures/lec_11.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -574,11 +667,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--33
  []
 
 
-Overfull \hbox (59.29202pt too wide) in paragraph at lines 17--33
+Overfull \hbox (130.02818pt too wide) in paragraph at lines 17--33
 []
  []
 
-[9]) (./lectures/lec_12.tex
+[12]
+Overfull \hbox (7.19899pt too wide) in paragraph at lines 50--57
+ [] 
+ []
+
+
+Overfull \hbox (25.47658pt too wide) in paragraph at lines 102--109
+ [] 
+ []
+
+) (./lectures/lec_12.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -588,7 +691,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--9
 
  []
 
-[10]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 54--56
 
  []
@@ -603,7 +706,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--61
 
  []
 
-) (./lectures/lec_13.tex
+[14]) (./lectures/lec_13.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -667,7 +770,6 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[11]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -681,7 +783,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) (./lectures/lec_14.tex
+[15]) (./lectures/lec_14.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -712,7 +814,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) [12] (./master.aux)
+) [16] (./master.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -721,20 +823,20 @@ L3 programming layer <2024-02-20>
 Here is how much of TeX's memory you used:
  4834 strings out of 476076
  82978 string characters out of 5793775
- 1948187 words of memory out of 5000000
+ 1945187 words of memory out of 5000000
  26852 multiletter control sequences out of 15000+600000
  562921 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,6n,82p,295b,268s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,6n,82p,295b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb>
-Output written on master.pdf (12 pages, 116599 bytes).
+Output written on master.pdf (16 pages, 123287 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 86 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

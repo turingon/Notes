@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  27 FEB 2025 16:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  1 MAR 2025 15:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -521,6 +521,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--6
  []
 
 [8]) (./lectures/lec_09.tex
+Overfull \hbox (25.38832pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+
+ []
+
+[9{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}])
+(./lectures/lec_10.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -563,7 +589,7 @@ Overfull \hbox (130.02818pt too wide) in paragraph at lines 17--30
 []
  []
 
-[9]
+[10]
 Overfull \hbox (20.25441pt too wide) in paragraph at lines 47--54
  [] 
  []
@@ -578,7 +604,7 @@ Overfull \hbox (63.99007pt too wide) in paragraph at lines 99--106
  [] 
  []
 
-) (./lectures/lec_10.tex
+) (./lectures/lec_11.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -588,12 +614,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-[10]
+
 Underfull \hbox (badness 10000) in paragraph at lines 11--14
 
  []
 
-
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 17--30
 
  []
@@ -608,17 +634,17 @@ Overfull \hbox (16.33778pt too wide) in paragraph at lines 47--54
  [] 
  []
 
-[11]
+
 Overfull \hbox (13.00865pt too wide) in paragraph at lines 87--94
  [] 
  []
 
-
+[12]
 Overfull \hbox (55.50404pt too wide) in paragraph at lines 99--106
  [] 
  []
 
-) (./lectures/lec_11.tex
+) (./lectures/lec_12.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -671,7 +697,7 @@ Overfull \hbox (130.02818pt too wide) in paragraph at lines 17--33
 []
  []
 
-[12]
+[13]
 Overfull \hbox (7.19899pt too wide) in paragraph at lines 50--57
  [] 
  []
@@ -681,7 +707,7 @@ Overfull \hbox (25.47658pt too wide) in paragraph at lines 102--109
  [] 
  []
 
-) (./lectures/lec_12.tex
+) (./lectures/lec_13.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -691,7 +717,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--9
 
  []
 
-[13]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 54--56
 
  []
@@ -706,7 +732,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--61
 
  []
 
-[14]) (./lectures/lec_13.tex
+) (./lectures/lec_14.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -716,6 +742,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
+[15]
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
@@ -783,7 +810,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[15]) (./lectures/lec_14.tex
+[16]) (./lectures/lec_15.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -814,29 +841,31 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) [16] (./master.aux)
+) [17] (./master.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4834 strings out of 476076
- 82978 string characters out of 5793775
+ 4847 strings out of 476076
+ 83239 string characters out of 5793775
  1945187 words of memory out of 5000000
- 26852 multiletter control sequences out of 15000+600000
- 562921 words of font info for 52 fonts, out of 8000000 for 9000
+ 26860 multiletter control sequences out of 15000+600000
+ 563565 words of font info for 54 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  77i,6n,82p,295b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb>
-Output written on master.pdf (16 pages, 123287 bytes).
+r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dis
+t/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on master.pdf (17 pages, 142307 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 100 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,14 +1,15 @@
 \contentsline {section}{\numberline {1}Subjects}{1}{}%
-\contentsline {section}{\numberline {2}Nouns \& Their Cases}{1}{}%
-\contentsline {section}{\numberline {3}Declesions}{2}{}%
+\contentsline {section}{\numberline {2}Nouns And Their Cases}{2}{}%
+\contentsline {section}{\numberline {3}Declesions}{3}{}%
 \contentsline {section}{\numberline {4}1st Declension}{3}{}%
 \contentsline {section}{\numberline {5}2nd Declension}{4}{}%
 \contentsline {section}{\numberline {6}3rd Declension}{6}{}%
 \contentsline {section}{\numberline {7}4th Declension}{7}{}%
 \contentsline {section}{\numberline {8}5th Declension}{8}{}%
-\contentsline {section}{\numberline {9}1st Conjugation}{9}{}%
-\contentsline {section}{\numberline {10}2nd Conjugation}{10}{}%
-\contentsline {section}{\numberline {11}3rd Conjugation}{12}{}%
-\contentsline {section}{\numberline {12}Present Tense}{14}{}%
-\contentsline {section}{\numberline {13}Imperfect Tense}{15}{}%
-\contentsline {section}{\numberline {14}Perfect Tense}{16}{}%
+\contentsline {section}{\numberline {9}Latin Verbs}{9}{}%
+\contentsline {section}{\numberline {10}1st Conjugation}{10}{}%
+\contentsline {section}{\numberline {11}2nd Conjugation}{11}{}%
+\contentsline {section}{\numberline {12}3rd Conjugation}{13}{}%
+\contentsline {section}{\numberline {13}Present Tense}{14}{}%
+\contentsline {section}{\numberline {14}Imperfect Tense}{16}{}%
+\contentsline {section}{\numberline {15}Perfect Tense}{17}{}%

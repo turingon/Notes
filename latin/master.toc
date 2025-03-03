@@ -14,3 +14,4 @@
 \contentsline {section}{\numberline {14}Imperfect Tense}{16}{}%
 \contentsline {section}{\numberline {15}Perfect Tense}{17}{}%
 \contentsline {section}{\numberline {16}Adjactives}{17}{}%
+\contentsline {section}{\numberline {17}Part Of Speech}{18}{}%

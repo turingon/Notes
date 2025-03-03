@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  2 MAR 2025 18:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  3 MAR 2025 11:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -286,6 +286,9 @@ Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -315,9 +318,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--15
 
  []
 
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./lectures/lec_03.tex
+) (./lectures/lec_03.tex
 Underfull \hbox (badness 10000) in paragraph at lines 18--1
 
  []
@@ -886,18 +887,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--38
 
  []
 
-) [18] (./master.aux)
+) (./lectures/lec_17.tex
+Overfull \hbox (20.76335pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+[18]) [19] (./master.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4853 strings out of 476076
- 83375 string characters out of 5793775
+ 4860 strings out of 476076
+ 83529 string characters out of 5793775
  1945187 words of memory out of 5000000
- 26863 multiletter control sequences out of 15000+600000
- 563565 words of font info for 54 fonts, out of 8000000 for 9000
+ 26867 multiletter control sequences out of 15000+600000
+ 563872 words of font info for 55 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  77i,6n,82p,295b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
@@ -907,10 +913,10 @@ ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
 r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/s
 hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dis
 t/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on master.pdf (18 pages, 145375 bytes).
+Output written on master.pdf (19 pages, 147878 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 107 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

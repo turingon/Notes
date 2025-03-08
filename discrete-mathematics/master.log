@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  6 MAR 2025 17:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  8 MAR 2025 15:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -26,12 +26,9 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 (/usr/share/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/04/01  v 6.2
 )
-(/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2024/01/21 v0.5y Insert pages of external PDF documents (AM)
+(/usr/share/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
 
-(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)
 (/usr/share/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count196
@@ -45,6 +42,15 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count198
 \calc@Cskip=\skip52
 )
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+))
+(/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2024/01/21 v0.5y Insert pages of external PDF documents (AM)
+
 (/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \ESO@tempdima=\dimen143
@@ -211,10 +217,10 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2871 strings out of 476076
- 47030 string characters out of 5793775
+ 2943 strings out of 476076
+ 48451 string characters out of 5793775
  1926187 words of memory out of 5000000
- 24949 multiletter control sequences out of 15000+600000
+ 25013 multiletter control sequences out of 15000+600000
  561709 words of font info for 48 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  77i,6n,82p,310b,204s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -222,7 +228,7 @@ Here is how much of TeX's memory you used:
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmr17.pfb>
-Output written on master.pdf (1 page, 38169 bytes).
+Output written on master.pdf (1 page, 38154 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream

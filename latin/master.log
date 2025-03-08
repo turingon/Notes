@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  6 MAR 2025 17:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.2.22)  8 MAR 2025 15:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -26,12 +26,9 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 (/usr/share/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/04/01  v 6.2
 )
-(/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2024/01/21 v0.5y Insert pages of external PDF documents (AM)
+(/usr/share/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
 
-(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)
 (/usr/share/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count196
@@ -45,6 +42,15 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count198
 \calc@Cskip=\skip52
 )
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+))
+(/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2024/01/21 v0.5y Insert pages of external PDF documents (AM)
+
 (/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \ESO@tempdima=\dimen143
@@ -281,14 +287,13 @@ Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
-) (./lectures/lec_02.tex
+) (./lectures/lec_02.tex [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -358,7 +363,7 @@ Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
-
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 2--14
 
  []
@@ -373,7 +378,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--14
 
  []
 
-[2]) (./lectures/lec_04.tex
+) (./lectures/lec_04.tex
 Overfull \hbox (34.291pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -897,35 +902,65 @@ Overfull \hbox (20.76335pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--17
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--17
+) (./lectures/lec_19.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--1
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--17
+Underfull \hbox (badness 10000) in paragraph at lines 8--1
 
  []
 
-[19]) [20] (./master.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--1
+
+ []
+
+[19]
+Overfull \hbox (20.76335pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--39
+
+ []
+
+[20]) [21] (./master.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4868 strings out of 476076
- 83719 string characters out of 5793775
+ 4948 strings out of 476076
+ 85311 string characters out of 5793775
  1945187 words of memory out of 5000000
- 26872 multiletter control sequences out of 15000+600000
- 563872 words of font info for 55 fonts, out of 8000000 for 9000
+ 26941 multiletter control sequences out of 15000+600000
+ 564478 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,6n,82p,295b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,9n,82p,295b,303s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
@@ -933,10 +968,10 @@ ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
 r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/s
 hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dis
 t/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on master.pdf (20 pages, 149478 bytes).
+Output written on master.pdf (21 pages, 152609 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
+ 113 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,17 +1,19 @@
+\usepackage{import}
+\usepackage{xifthen}
+\usepackage{pdfpages}
+\usepackage{transparent}
+
+\newcommand{\incfig}[1]{%
+    \def\svgwidth{\columnwidth}
+    \import{./figures/}{#1.pdf_tex}
+}
+
 \def\@lecture{}%
 \newcommand{\lecture}[3]{
       \def\@lecture{#3}% 
     \section{\@lecture}
     \marginpar{\small\textsf{\mbox{#2}}}
 }
-\usepackage{import}
-\usepackage{pdfpages}
-\usepackage{transparent}
-\usepackage{xcolor}
 
-\newcommand{\incfig}[2][1]{%
-    \def\svgwidth{#1\columnwidth}
-    \import{./figures/}{#2.pdf_tex}
-}
-
+\pdfminorversion=7
 \pdfsuppresswarningpagegroup=1

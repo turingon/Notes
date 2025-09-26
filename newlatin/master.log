@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/doruk/Notes/discrete-mathematics/master.tex
-(/home/doruk/Notes/discrete-mathematics/master.tex
+**/home/doruk/Notes/current-course/master.tex
+(/home/doruk/Notes/current-course/master.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -131,10 +131,51 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 )
 (/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-)))) (./preamble.tex)
+)))) (./preamble.tex
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen151
+\captionmargin=\dimen152
+\caption@leftmargin=\dimen153
+\caption@rightmargin=\dimen154
+\caption@width=\dimen155
+\caption@indent=\dimen156
+\caption@parindent=\dimen157
+\caption@hangindent=\dimen158
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count277
+\c@continuedfloat=\count278
+)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count279
+\Gm@cntv=\count280
+\c@Gm@tempcnt=\count281
+\Gm@bindingoffset=\dimen159
+\Gm@wd@mp=\dimen160
+\Gm@odd@mp=\dimen161
+\Gm@even@mp=\dimen162
+\Gm@layoutwidth=\dimen163
+\Gm@layoutheight=\dimen164
+\Gm@layouthoffset=\dimen165
+\Gm@layoutvoffset=\dimen166
+\Gm@dimlist=\toks21
+)
+(/usr/share/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks22
+))
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count277
+\l__color_backend_stack_int=\count282
 \l__pdf_internal_box=\box54
 ) (./master.aux)
 \openout1 = `master.aux'.
@@ -155,17 +196,17 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count278
-\scratchdimen=\dimen151
+\scratchcounter=\count283
+\scratchdimen=\dimen167
 \scratchbox=\box55
-\nofMPsegments=\count279
-\nofMParguments=\count280
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count281
-\MPscratchDim=\dimen152
-\MPnumerator=\count282
-\makeMPintoPDFobject=\count283
-\everyMPtoPDFconversion=\toks22
+\nofMPsegments=\count284
+\nofMParguments=\count285
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count286
+\MPscratchDim=\dimen168
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
+\everyMPtoPDFconversion=\toks24
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -187,9 +228,46 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: heightrounded 
+* h-part:(L,W,R)=(89.62709pt, 394.06976pt, 113.81102pt)
+* v-part:(T,H,B)=(28.45274pt, 759.6886pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=394.06976pt
+* \textheight=754.0pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-80.81725pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 ! Undefined control sequence.
-\@title ->Discrete Mathematics \proctect 
-                                         \\ DM 101
+\@title ->Latin 202 \proctect 
+                              \\ Latin 202
 l.6     \maketitle
                   
 The control sequence at the end of the top line
@@ -204,39 +282,158 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 6.
-
-LaTeX Warning: No \author given.
-
 (./master.toc)
 \tf@toc=\write3
 \openout3 = `master.toc'.
+
+ (./lectures/lec_01.tex
+Overfull \hbox (19.34665pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--38
+
+ []
 
 
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./master.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 84--90
+
+ []
+
+
+
+[2{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 91--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
+
+ []
+
+) (./lectures/lec_02.tex
+Underfull \hbox (badness 10000) in paragraph at lines 146--1
+
+ []
+
+
+
+[3]
+Overfull \hbox (19.34665pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+) (./lectures/lec_03.tex
+Overfull \hbox (19.34665pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 16--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--45
+
+ []
+
+
+Overfull \hbox (2.14528pt too wide) in paragraph at lines 16--45
+[]   [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--58
+
+ []
+
+
+
+[5]
+
+[6]) (./lectures/lec_04.tex
+Overfull \hbox (19.34665pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+
+[7])
+
+[8] (./master.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3289 strings out of 475171
- 52692 string characters out of 5767096
- 444799 words of memory out of 5000000
- 26245 multiletter control sequences out of 15000+600000
- 562477 words of font info for 48 fonts, out of 8000000 for 9000
+ 5193 strings out of 475171
+ 87366 string characters out of 5767096
+ 496478 words of memory out of 5000000
+ 28117 multiletter control sequences out of 15000+600000
+ 564034 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,6n,82p,310b,204s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr17.pfb>
-Output written on master.pdf (1 page, 37847 bytes).
+ 77i,7n,82p,304b,201s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dis
+t/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on master.pdf (8 pages, 117532 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 72 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

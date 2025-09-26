@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Day 1}{1}{}%
+\contentsline {paragraph}{Find the stem:}{2}{}%
+\contentsline {paragraph}{Add endings:}{2}{}%
+\contentsline {section}{\numberline {2}Day 2}{4}{}%
+\contentsline {section}{\numberline {3}Day 3}{4}{}%
+\contentsline {section}{\numberline {4}Day 4}{7}{}%

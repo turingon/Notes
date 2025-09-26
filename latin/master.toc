@@ -17,3 +17,5 @@
 \contentsline {section}{\numberline {17}Part Of Speech}{18}{}%
 \contentsline {section}{\numberline {18}Relative Pronouns}{19}{}%
 \contentsline {section}{\numberline {19}Demonstrative Pronouns}{20}{}%
+\contentsline {section}{\numberline {20}Pluperfect Tense}{21}{}%
+\contentsline {section}{\numberline {21}Indirect Statments}{21}{}%
